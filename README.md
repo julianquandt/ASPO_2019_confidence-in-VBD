@@ -1,1 +1,8 @@
-# ASPO_2019_confidence-in-VBD
+# ASPO conference 2019 - Confidence in Values and Value-based Choice
+
+Julian Quandt, Harm Veling, Rob W. Holland, Bernd Figner Affiliation: 
+Behavioural Science Institute, Radboud University 
+
+When people make decisions in everyday-life, these decisions are usually accompanied by a feeling of confidence whether the choice that was made was correct. For example, a person can feel more or less confident to have given the correct answer on trivia-question. It is commonly believed that for a given decision problem, confidence reflects the clarity of the evidence that a decision was based on. This is, decisions in which the evidence is less clear (e.g. conflicting information about a trivia-question) result in lower confidence. It has been shown that confidence predicts how likely people are to stick with an opinion or how likelythey are to engage in related future decision-scenarios.     
+
+However, confidence has not yet been extensively studied in common value-based decision problems in which people evaluate, or decide between objects such as foods or other consumer goods. It has been suggested that in these decisions, the evidence that people use are prior experiences with the goods. However, it is still unknown how confidence is constructed from these experiences when evaluating or choosing between objects. In three preregistered experiments (n = 62, n = 60, n = 60) we investigated the question whether confidence reflects the diversity of prior experiences with objects and how they relate to choice-behavior. We find that for novel and real-life food objects, more diverse prior experiences relate to lower confidence when evaluating objects and deciding between them. This is relevant to understanding consumption-behavior and attitude formation and stability.  
